@@ -30,7 +30,7 @@ int main(void)
     initialSeats(flight1, count);
     initialSeats(flight2, count);
     initialSeats(flight3, count);
-    printf("\n********* WELCOME TO JOE'S AIRLINE BOOKING SYSTEM *********");
+    printf("\nWELCOME TO JOE'S AIRLINE BOOKING SYSTEM");
     while (loop==0)
     {
         while (result==0)
