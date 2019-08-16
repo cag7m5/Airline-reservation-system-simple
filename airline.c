@@ -1,5 +1,4 @@
 //airline reservation system
-//want to add api access
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
