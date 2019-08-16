@@ -231,6 +231,7 @@ void printMessage(char name[], char num[])
 	int i = 0, loop = 0, loop2 = 0;
 	printf("\n\nCongrats %s, your flight %s is booked, enjoy your trip.", name, num);
 	printf("\n\nYour e-ticket number is:");
+	//The following is simply a bonus that mixes the persons name and their number together to form the ticket number
 	while (loop == 0)
 	{
 		if (name[i] != '\0' && num[i] != '\0')//prints a character from both arrays when neither has reached a null terminator
