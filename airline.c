@@ -280,5 +280,5 @@ void printMessage(char name[], char num[])
 			loop = 1;
 		}
 	}
-	printf("\n\nEnjoy you Thanksgiving Break :)");
+	printf("\n\nThank You :)");
 }
